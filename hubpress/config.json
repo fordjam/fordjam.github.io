@@ -1,7 +1,7 @@
 {
   "meta": {
-    "fordjam": "put your username here",
-    "fordjam.github.io": "put your repository name here",
+    "username": "fordjam",
+    "repositoryName": "fordjam.github.io",
     "branch": "master"
   },
   "theme": {
